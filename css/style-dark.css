@@ -67,18 +67,18 @@
 /* TEMPLATE BACKGROUNDS */
 /* panel left bg */
 /* panel left bg SINGLE */
-.panel-left-bg.panel-left-bg-SINGLE {
+/* .panel-left-bg.panel-left-bg-SINGLE {
 background-image: url(../img/background/panel-left-bg-SINGLE.jpg);
 }
 
 .panel-left-bg.panel-left-bg-SINGLE-light {
 background-image: url(../img/background/panel-left-bg-SINGLE-light.jpg);
-}
+} */
 
 /* panel left bg SLIDER */
-.panel-left-bg.panel-left-bg-SLIDER {
+/* .panel-left-bg.panel-left-bg-SLIDER {
 background-image: url(../img/background/panel-left-bg-SLIDER.jpg);
-}
+} */
 
 /* panel left bg ZOOM */
 .panel-left-bg.panel-left-bg-ZOOM {
@@ -86,34 +86,34 @@ background-image: url(../img/background/panel-left-bg-ZOOM.jpg);
 }
 
 /* panel left bg SPLIT */
-.panel-left-bg.panel-left-bg-SPLIT {
+/* .panel-left-bg.panel-left-bg-SPLIT {
 background-image: url(../img/background/panel-left-bg-SPLIT.jpg);
-}
+} */
 
 /* panel left bg KEN BURNS */
-.panel-left-bg.panel-left-bg-KEN-BURNS {
+/* .panel-left-bg.panel-left-bg-KEN-BURNS {
 background-image: url(../img/background/panel-left-bg-KEN-BURNS.jpg);
-}
+} */
 
 /* panel left bg YOUTUBE */
-.panel-left-bg.panel-left-bg-YOUTUBE {
+/* .panel-left-bg.panel-left-bg-YOUTUBE {
 background-image: url(../img/background/panel-left-bg-YOUTUBE.jpg);
-}
+} */
 
 /* panel left bg DRAGGABLE IMAGE WALL */
 .panel-left-bg.panel-left-bg-DRAGGABLE-IMAGE-WALL {
-background-image: url(../img/background/panel-left-bg-DRAGGABLE-IMAGE-WALL.jpg);
+background-image: url(../img/gallery/10.jpeg);
 }
 
 
 /* hero background IMG */
 /* single IMG */
-.bg-img-SINGLE {
+/* .bg-img-SINGLE {
 background-image: url(../img/background/SINGLE-bg.jpg);
-}
+} */
 
 /* slide slider IMG */
-.bg-img-1 {
+/* .bg-img-1 {
 background-image: url(../img/background/hero-bg-1.jpg);
 }
 
@@ -127,10 +127,10 @@ background-image: url(../img/background/hero-bg-3.jpg);
 
 .bg-img-4 {
 background-image: url(../img/background/hero-bg-4.jpg);
-}
+} */
 
 /* split slider IMG */
-.bg-img-split-1 {
+/* .bg-img-split-1 {
 background-image: url(../img/background/hero-bg-split-1.jpg);
 }
 
@@ -144,10 +144,10 @@ background-image: url(../img/background/hero-bg-split-3.jpg);
 
 .bg-img-split-4 {
 background-image: url(../img/background/hero-bg-split-4.jpg);
-}
+} */
 
 /* zoom slider IMG */
-.bg-img-zoom-1 {
+/* .bg-img-zoom-1 {
 background-image: url(../img/background/hero-bg-zoom-1.jpg);
 }
 
@@ -161,11 +161,11 @@ background-image: url(../img/background/hero-bg-zoom-3.jpg);
 
 .bg-img-zoom-4 {
 background-image: url(../img/background/hero-bg-zoom-4.jpg);
-}
+} */
 
 
 /* ken burns slideshow IMG */
-.kenburns-slide-1 {
+/* .kenburns-slide-1 {
 background-image: url(../img/background/kenburns-bg-1.jpg);
 }
 
@@ -179,13 +179,13 @@ background-image: url(../img/background/kenburns-bg-3.jpg);
 
 .kenburns-slide-4 {
 background-image: url(../img/background/kenburns-bg-4.jpg);
-}
+} */
 
 
 /* core Modal */
-.md-content {
+/* .md-content {
 background: url(../img/background/md-content-bg.jpg);
-}
+} */
 
 
 /* reset */

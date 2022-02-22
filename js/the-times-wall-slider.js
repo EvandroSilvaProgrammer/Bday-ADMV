@@ -309,7 +309,7 @@ window.addEvent("domready", function() {
         ["img/square/1.jpeg", [
             // ["img/square/2.jpeg"]
         ]],
-        ["img/square/2.jpeg", [
+        ["img/square/6.jpeg", [
         ]],
         ["img/square/3.jpeg", [
         ]],
@@ -317,7 +317,7 @@ window.addEvent("domready", function() {
         ]],
         ["img/square/5.jpeg", [
         ]],
-        ["img/square/6.jpeg", [
+        ["img/square/20.jpeg", [
         ]],
         ["img/square/7.jpeg", [
         ]],
@@ -345,7 +345,7 @@ window.addEvent("domready", function() {
         ]],
         ["img/square/19.jpeg", [
         ]],
-        ["img/square/20.jpeg", [
+        ["img/square/2.jpeg", [
         ]],
         ["img/square/21.jpeg", [
         ]],
