@@ -306,116 +306,80 @@ ga('send', 'pageview');
 // 18. the Wall
 window.addEvent("domready", function() {
     var imagewall = [
-        ["the-wall/1.jpg", [
-            ["the-wall/1-2.jpg"]
+        ["img/square/1.jpeg", [
+            // ["img/square/2.jpeg"]
         ]],
-        ["the-wall/2.jpg", [
-            ["the-wall/2-2.jpg"]
+        ["img/square/2.jpeg", [
         ]],
-        ["the-wall/3.jpg", [
-            ["the-wall/3-2.jpg"]
+        ["img/square/3.jpeg", [
         ]],
-        ["the-wall/4.jpg", [
-            ["the-wall/4-2.jpg"]
+        ["img/square/4.jpeg", [
         ]],
-        ["the-wall/5.jpg", [
-            ["the-wall/5-2.jpg"]
+        ["img/square/5.jpeg", [
         ]],
-        ["the-wall/6.jpg", [
-            ["the-wall/6-2.jpg"]
+        ["img/square/6.jpeg", [
         ]],
-        ["the-wall/7.jpg", [
-            ["the-wall/7-2.jpg"]
+        ["img/square/7.jpeg", [
         ]],
-        ["the-wall/8.jpg", [
-            ["the-wall/8-2.jpg"]
+        ["img/square/8.jpeg", [
         ]],
-        ["the-wall/9.jpg", [
-            ["the-wall/9-2.jpg"]
+        ["img/square/9.jpeg", [
         ]],
-        ["the-wall/10.jpg", [
-            ["the-wall/10-2.jpg"]
+        ["img/square/10.jpeg", [
         ]],
-        ["the-wall/11.jpg", [
-            ["the-wall/11-2.jpg"]
+        ["img/square/11.jpeg", [
         ]],
-        ["the-wall/12.jpg", [
-            ["the-wall/12-2.jpg"]
+		["img/square/12.jpeg", [
         ]],
-		["the-wall/13.jpg", [
-            ["the-wall/13-2.jpg"]
+        ["img/square/13.jpeg", [
         ]],
-        ["the-wall/14.jpg", [
-            ["the-wall/14-2.jpg"]
+        ["img/square/14.jpeg", [
         ]],
-        ["the-wall/15.jpg", [
-            ["the-wall/15-2.jpg"]
+        ["img/square/15.jpeg", [
         ]],
-        ["the-wall/16.jpg", [
-            ["the-wall/16-2.jpg"]
+        ["img/square/16.jpeg", [
         ]],
-        ["the-wall/17.jpg", [
-            ["the-wall/17-2.jpg"]
+        ["img/square/17.jpeg", [
         ]],
-        ["the-wall/18.jpg", [
-            ["the-wall/18-2.jpg"]
+        ["img/square/18.jpeg", [
         ]],
-        ["the-wall/19.jpg", [
-            ["the-wall/19-2.jpg"]
+        ["img/square/19.jpeg", [
         ]],
-        ["the-wall/20.jpg", [
-            ["the-wall/20-2.jpg"]
+        ["img/square/20.jpeg", [
         ]],
-        ["the-wall/21.jpg", [
-            ["the-wall/21-2.jpg"]
+        ["img/square/21.jpeg", [
         ]],
-        ["the-wall/22.jpg", [
-            ["the-wall/22-2.jpg"]
+        ["img/square/22.jpeg", [
         ]],
-        ["the-wall/23.jpg", [
-            ["the-wall/23-2.jpg"]
+        ["img/square/23.jpeg", [
         ]],
-        ["the-wall/24.jpg", [
-            ["the-wall/24-2.jpg"]
+        ["img/square/24.jpeg", [
         ]],
-        ["the-wall/25.jpg", [
-            ["the-wall/25-2.jpg"]
+        ["img/square/25.jpeg", [
         ]],
-        ["the-wall/26.jpg", [
-            ["the-wall/26-2.jpg"]
+        ["img/square/26.jpeg", [
         ]],
-        ["the-wall/27.jpg", [
-            ["the-wall/27-2.jpg"]
+        ["img/square/27.jpeg", [
         ]],
-        ["the-wall/28.jpg", [
-            ["the-wall/28-2.jpg"]
+        ["img/square/28.jpeg", [
         ]],
-        ["the-wall/29.jpg", [
-            ["the-wall/29-2.jpg"]
+        ["img/square/29.jpeg", [
         ]],
-        ["the-wall/30.jpg", [
-            ["the-wall/30-2.jpg"]
+        ["img/square/30.jpeg", [
         ]],
-        ["the-wall/31.jpg", [
-            ["the-wall/31-2.jpg"]
+        ["img/square/31.jpeg", [
         ]],
-        ["the-wall/32.jpg", [
-            ["the-wall/32-2.jpg"]
+        ["img/square/32.jpeg", [
         ]],
-        ["the-wall/33.jpg", [
-            ["the-wall/33-2.jpg"]
+        ["img/square/33.jpeg", [
         ]],
-        ["the-wall/34.jpg", [
-            ["the-wall/34-2.jpg"]
+        ["img/square/34.jpeg", [
         ]],
-        ["the-wall/35.jpg", [
-            ["the-wall/35-2.jpg"]
+        ["img/square/35.jpeg", [
         ]],
-        ["the-wall/36.jpg", [
-            ["the-wall/36-2.jpg"]
+        ["img/square/36.jpeg", [
         ]],
-        ["the-wall/plus-1.jpg", [
-            ["the-wall/plus-1-2.jpg"] // an extra image to compensate for the gap
+        ["img/square/37.jpeg", [
         ]]
     ];
     var maxLength = 36;
